@@ -1,0 +1,3 @@
+[submodule "netbox"]
+	path = netbox
+	url = git@github.com:bootc/netbox-chart.git
